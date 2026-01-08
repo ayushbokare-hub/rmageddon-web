@@ -1,2 +1,2 @@
 # rmageddon-web
-this repo for FOOTER PART
+this repo is for FOOTER PART
